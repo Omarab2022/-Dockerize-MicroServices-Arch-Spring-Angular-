@@ -34,6 +34,8 @@ docker-compose up -d
 
 <img width="1433" alt="Screen Shot 2024-02-02 at 16 13 30" src="https://github.com/Omarab2022/-Dockerize-MicroServices-Arch-Spring-Angular-/assets/99898445/2dc8de3c-1a08-41e6-bb38-9a465c0a7646">
 
+<img width="1384" alt="Screen Shot 2024-02-02 at 16 13 47" src="https://github.com/Omarab2022/-Dockerize-MicroServices-Arch-Spring-Angular-/assets/99898445/6409e65f-419e-4f42-b55b-a1d23713e317">
+
 
 <img width="1437" alt="Screen Shot 2024-02-01 at 13 48 13" src="https://github.com/Omarab2022/-Dockerize-MicroServices-Arch-Spring-Angular-/assets/99898445/04ede06b-69fa-4f77-b9cb-25502eb7e4b0">
 
